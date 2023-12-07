@@ -1,0 +1,13 @@
+[package]
+name = "explicit_cast"
+version = "1.0.0"
+edition = "2021"
+keywords = ["primitive", "cast", "truncate", "widen"]
+categories = ["no-std::no-alloc", "rust-patterns"]
+homepage = "https://github.com/ultrabear/explicit_cast"
+repository = "https://github.com/ultrabear/explicit_cast"
+authors = ["Alexander Hall <bearodark@gmail.com>"]
+description = "A crate for explicit widening, truncating, and sign casting of primitive integers"
+readme = "README.md"
+license = "Apache-2.0 OR MIT"
+
